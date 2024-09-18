@@ -5,8 +5,8 @@ Welcome to the SOC Investigation Repository! This repository documents my progre
 ### Overview
 
 This repository is dedicated to:
-    Documenting SOC investigations and findings.
-    Sharing scripts and tools developed during investigations.
+    - Documenting SOC investigations and findings.
+    - Sharing scripts and tools developed during investigations.
     Providing detailed steps and analysis of SOC alerts from Let’s Defend.
     Offering insights and analysis on various SOC scenarios and challenges.
 
