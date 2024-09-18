@@ -11,8 +11,8 @@ This repository is dedicated to:
 - Offering insights and analysis on various SOC scenarios and challenges.
 
 Contents:
-    **Scripts:** Python and shell scripts used for automated tasks and investigations.
-    **Tools:** Custom tools and utilities developed for SOC tasks.
-    **Reports:** Detailed reports and findings from investigations.
-    **Challenges:** Solutions and walkthroughs for SOC-related challenges from Let’s Defend.
-    **SOC Alerts:** Analysis and steps taken to investigate and respond to SOC alerts.
+- **Scripts:** Python and shell scripts used for automated tasks and investigations.
+- **Tools:** Custom tools and utilities developed for SOC tasks.
+- **Reports:** Detailed reports and findings from investigations.
+- **Challenges:** Solutions and walkthroughs for SOC-related challenges from Let’s Defend.
+- **SOC Alerts:** Analysis and steps taken to investigate and respond to SOC alerts.
